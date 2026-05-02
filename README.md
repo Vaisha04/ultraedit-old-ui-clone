@@ -8,7 +8,7 @@ Tech Stack :-
 HTML5
 CSS3
 Screenshots :-
-
+![image alt](https://github.com/Vaisha04/ultraedit-old-ui-clone/blob/5dd8c84fb2e17955a380f9e9eadb2bdcc3d19652/EX7%20(UltraEdit)/mobile%20ultraedit.png)
 Purpose :-
 To improve frontend skills by recreating an existing software UI.
 
